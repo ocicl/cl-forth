@@ -1,0 +1,9 @@
+* cl-forth
+
+Common Lisp implementation of the Forth 2012 Standard
+
+|---------+---------------------------------------------------------------------------|
+| source  | file:https://github.com/gmpalter/cl-forth/archive/refs/tags/v1.3.5.tar.gz |
+| version | 1.3.5                                                                     |
+| systems | cl-forth                                                                  |
+|---------+---------------------------------------------------------------------------|

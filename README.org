@@ -3,7 +3,7 @@
 Common Lisp implementation of the Forth 2012 Standard
 
 |---------+---------------------------------------------------------------------------|
-| source  | file:https://github.com/gmpalter/cl-forth/archive/refs/tags/v1.3.5.tar.gz |
-| version | 1.3.5                                                                     |
+| source  | file:https://github.com/gmpalter/cl-forth/archive/refs/tags/v1.5.1.tar.gz |
+| version | 1.5.1                                                                     |
 | systems | cl-forth                                                                  |
 |---------+---------------------------------------------------------------------------|
